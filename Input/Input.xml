@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Input</name>
+<help>A standard input</help>
+<starttext><![CDATA[<div class="ui input">
+   <input type="$${type:button|color|checkbox|date|email|file|hidden|image|number|password|radio|range|reset|search|submit|tel|text|time|url}" placeholder="$${placeholder}" />
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Dimmer</name>
+<help>A dimmer can display content</help>
+<starttext><![CDATA[<div class="ui dimmer">
+  <div class="content">
+    <div class="center">
+      <h2 class="ui inverted icon header">
+        <i class="icon circular inverted emphasized red heart"></i>
+        Your poodle photo uploaded successfully!
+      </h2>
+    </div>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

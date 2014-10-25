@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Text Alignment</name>
+<help>A header can have its text aligned to a side</help>
+<starttext><![CDATA[<div class="ui segment">
+  <h3 class="ui right aligned header">
+    Right
+  </h3>
+  <h3 class="ui left aligned header">
+    Left
+  </h3>
+  <h3 class="ui justified header">
+    This should take up the full width even if only one line
+  </h3>
+  <h3 class="ui center aligned header">
+    Center
+  </h3>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

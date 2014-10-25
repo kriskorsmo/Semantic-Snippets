@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Fluid</name>
+<help>A button can fit parent container</help>
+<starttext><![CDATA[<div class="fluid ui button">
+   Fits container
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

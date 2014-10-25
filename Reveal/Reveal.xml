@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Reveal</name>
+<help>A standard reveal has no special formatting</help>
+<starttext><![CDATA[<div class="ui circular reveal">
+   <img class="visible content" src="/images/demo/stickfigure.jpg">
+   <img class="hidden content" src="/images/demo/photo2.jpg">
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

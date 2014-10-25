@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Vertical Animated</name>
+<help></help>
+<starttext><![CDATA[<div class="ui vertical animated button">
+  <div class="hidden content">Shop</div>
+  <div class="visible content">
+    <i class="cart icon"></i>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Animated</name>
+<help></help>
+<starttext><![CDATA[<div class="ui animated button">
+  <div class="visible content">Next</div>
+  <div class="hidden content">
+    <i class="right arrow icon"></i>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

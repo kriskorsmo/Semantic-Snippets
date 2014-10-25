@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Text Loader</name>
+<help>A loader can contain text</help>
+<starttext><![CDATA[<div class="ui segment">
+  <div class="ui active dimmer">
+    <div class="ui text loader">Loading</div>
+  </div>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

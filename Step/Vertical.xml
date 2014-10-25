@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Vertical</name>
+<help>Vertical steps display each step stacked vertically</help>
+<starttext><![CDATA[<div class="ui vertical steps">
+   <div class="ui step">
+      Shipping
+   </div>
+   <div class="ui active two line step">
+     Billing &amp; Order <br> Confirmation
+   </div>
+   <div class="ui disabled step">
+      Review
+   </div>
+   <div class="ui disabled step">
+      Receipt
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

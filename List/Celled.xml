@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Celled</name>
+<help>A list can divide its items into cells</help>
+<starttext><![CDATA[<div class="ui celled horizontal list">
+  <div class="item">About Us</div>
+  <div class="item">Contact</div>
+  <div class="item">Support</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

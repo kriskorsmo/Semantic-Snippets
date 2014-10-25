@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Icon and Subheading</name>
+<help></help>
+<starttext><![CDATA[<h2 class="ui header">
+  <i class="settings icon"></i>
+  <div class="content">
+    Account Settings
+    <div class="sub header">Manage your account settings and set e-mail preferences.</div>
+  </div>
+</h2>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

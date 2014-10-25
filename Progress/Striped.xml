@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Striped</name>
+<help>A progress bar can be striped</help>
+<starttext><![CDATA[<div class="ui striped progress">
+   <div class="bar"></div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

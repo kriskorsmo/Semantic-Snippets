@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Unordered</name>
+<help>A list can mark items with a bullet</help>
+<starttext><![CDATA[<div class="ui bulleted list">
+   <div class="item"></div>
+   <div class="list">
+      <div class="item"></div>
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

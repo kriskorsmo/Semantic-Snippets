@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Horizontally Attached</name>
+<help></help>
+<starttext><![CDATA[<div class="ui left attached button">
+   Left
+</div>
+<div class="right attached ui button">
+   Right
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

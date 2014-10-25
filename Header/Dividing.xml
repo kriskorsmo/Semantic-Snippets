@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Dividing</name>
+<help>A header can be formatted to divide itself from the content below it</help>
+<starttext><![CDATA[<h3 class="ui dividing header">
+  The nature of dogs
+</h3>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Active</name>
+<help>A step can be highlighted as active</help>
+<starttext><![CDATA[<div class="ui steps">
+   <div class="ui active step">
+      
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

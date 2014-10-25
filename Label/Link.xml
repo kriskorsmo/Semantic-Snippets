@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Link</name>
+<help>A label can contain a text link</help>
+<starttext><![CDATA[<div class="ui label">
+  Inbox
+  <a class="detail"><i class="mail icon"></i> 23</a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

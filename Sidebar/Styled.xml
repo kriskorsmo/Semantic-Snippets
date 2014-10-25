@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Styled</name>
+<help>A sidebar can be formatted to include additional styling for display</help>
+<starttext><![CDATA[<div class="ui styled sidebar">
+   
+</div>]]></starttext>
+<endtext><![CDATA[<script>
+   $('.sidebar')
+      .sidebar()
+      .sidebar('toggle')
+   ;
+</script>]]></endtext>
+</snippet>

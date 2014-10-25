@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Circular</name>
+<help>A label can be circular</help>
+<starttext><![CDATA[<a class="ui black circular label">
+  12
+</a>
+<a class="ui green circular label">
+  11
+</a>
+<a class="ui red circular label">
+  10
+</a>
+<a class="ui blue circular label">
+  64
+</a>
+<a class="ui purple circular label">
+  62
+</a>
+<a class="ui teal circular label">
+  1
+</a>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

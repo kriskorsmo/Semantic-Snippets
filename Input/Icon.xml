@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Icon</name>
+<help></help>
+<starttext><![CDATA[<div class="ui icon input">
+  <input type="text" placeholder="Search...">
+  <i class="search icon"></i>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

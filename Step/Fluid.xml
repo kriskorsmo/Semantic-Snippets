@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Fluid</name>
+<help>Steps can be divided evenly inside their parent</help>
+<starttext><![CDATA[<div class="ui four steps">
+   <div class="ui active step">
+      
+   </div>
+   <div class="ui disabled step">
+      
+   </div>
+   <div class="ui disabled step">
+      
+   </div>
+   <div class="ui disabled step">
+      
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Step</name>
+<help>A step</help>
+<starttext><![CDATA[<div class="ui steps">
+   <div class="ui step">
+      
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

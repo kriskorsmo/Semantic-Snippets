@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Attached</name>
+<help>A label can attach to a content segment</help>
+<starttext><![CDATA[<div class="ui top attached label">HTML</div>
+<div class="ui bottom attached label">CSS</div>
+<div class="ui top right attached label">Code</div>
+<div class="ui top left attached label">View</div>
+<div class="ui bottom left attached label">User View</div>
+<div class="ui bottom right attached label">Admin View</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

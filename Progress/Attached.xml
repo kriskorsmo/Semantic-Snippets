@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Attached</name>
+<help>A progress bar can show progress of an element</help>
+<starttext><![CDATA[<div class="ui top attached progress">
+  <div class="bar"></div>
+</div>
+<div class="ui attached segment">
+  <p>La la la la</p>
+</div>
+<div class="ui bottom attached progress">
+  <div class="bar"></div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

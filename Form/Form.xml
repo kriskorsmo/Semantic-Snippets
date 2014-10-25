@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Form</name>
+<help>Forms always include fields and fields always contain form elements Fields themselves may also include inputs standard form fields labels selection dropdowns textareas as well as checkboxes and message blocks</help>
+<starttext><![CDATA[<div class="ui form segment">
+   <div class="ui error message">
+      <div class="header">Please correct these issues</div>
+   </div>
+   <div class="ui blue submit button">
+      
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

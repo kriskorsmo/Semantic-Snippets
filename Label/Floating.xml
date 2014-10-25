@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Floating</name>
+<help>A label can float above another element</help>
+<starttext><![CDATA[<div class="ui compact menu">
+  <a class="item">
+    <i class="icon mail"></i> Messages
+    <div class="floating ui red label">22</div>
+  </a>
+  <a class="item">
+    <i class="icon users"></i> Friends
+    <div class="floating ui teal label">22</div>
+  </a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

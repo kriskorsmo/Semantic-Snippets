@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Attached</name>
+<help>A header can be attached to other content</help>
+<starttext><![CDATA[<h4 class="ui top attached header">
+  Sign Up For Our Site
+</h4>
+<div class="ui segment attached">
+  <p>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</p>
+  <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
+</div>
+<h4 class="ui bottom attached header">
+  Thanks
+</h4>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

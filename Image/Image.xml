@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Image</name>
+<help></help>
+<starttext><![CDATA[<img class="ui $${size:tiny|mini|small|large|huge} image" src="$${source}" />]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

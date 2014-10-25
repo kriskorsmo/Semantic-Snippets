@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Circular</name>
+<help>An icon can be formatted to appear circular</help>
+<starttext><![CDATA[<i class="circular users icon"></i>
+<i class="circular teal users icon"></i>
+<i class="circular inverted users icon"></i>
+<i class="circular inverted teal users icon"></i>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

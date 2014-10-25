@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Loading</name>
+<help>A button can show a loading indicator</help>
+<starttext><![CDATA[<div class="ui loading button">
+   Loading Button
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Circular</name>
+<help>A button can be circular</help>
+<starttext><![CDATA[<div class="circular ui button">
+   Rounded
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

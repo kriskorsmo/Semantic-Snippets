@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Vertical</name>
+<help>A vertical menu displays elements vertically</help>
+<starttext><![CDATA[<div class="ui vertical menu">
+   <a class="active teal item">
+      Inbox
+      <div class="ui teal label">1</div>
+   </a>
+   <a class="item">
+      Spam
+      <div class="ui label">51</div>
+   </a>
+   <a class="item">
+      Updates
+      <div class="ui label">1</div>
+   </a>
+   <div class="item">
+      <div class="ui small icon input">
+         <input type="text" placeholder="Search mail...">
+         <i class="search icon"></i>
+      </div>
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

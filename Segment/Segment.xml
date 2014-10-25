@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Segment</name>
+<help>A segment of content</help>
+<starttext><![CDATA[<div class="ui segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Icon Group</name>
+<help></help>
+<starttext><![CDATA[<div class="ui icon buttons">
+  <div class="ui button">
+    <i class="pause icon"></i>
+  </div>
+  <div class="ui button">
+    <i class="play icon"></i>
+  </div>
+  <div class="ui button">
+    <i class="shuffle icon"></i>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

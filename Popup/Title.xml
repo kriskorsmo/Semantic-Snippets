@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Title</name>
+<help>A popup can be formatted with a title</help>
+<starttext><![CDATA[<img src="" data-title="$${title}" data-content="$${content}" class="">]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

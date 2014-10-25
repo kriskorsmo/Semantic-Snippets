@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Link</name>
+<help>A link list is specially formatted for page links</help>
+<starttext><![CDATA[<div class="ui link list">
+   <a class="item"></a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

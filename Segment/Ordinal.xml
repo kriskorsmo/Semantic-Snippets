@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Ordinal</name>
+<help>A segment can be formatted to appear more or less noticeable</help>
+<starttext><![CDATA[<div class="ui $${ordinality:primary|secondary|tertiary} segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

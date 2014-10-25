@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Sidebar</name>
+<help>A sidebar can appear on any side of content and have different sizes</help>
+<starttext><![CDATA[<div class="ui $${direction:left|right|top|bottom} $${size:very thin|thin|wide|very wide} sidebar">
+   
+</div>]]></starttext>
+<endtext><![CDATA[<script>
+   $('.sidebar')
+      .sidebar()
+      .sidebar('toggle')
+   ;
+</script>]]></endtext>
+</snippet>

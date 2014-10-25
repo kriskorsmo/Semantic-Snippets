@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Groups</name>
+<help>A set of step</help>
+<starttext><![CDATA[<div class="ui steps">
+   <div class="ui step">
+      Shipping
+   </div>
+   <div class="ui active step">
+      Billing
+   </div>
+   <div class="ui disabled step">
+      Confirm Order
+   </div>
+   <div class="ui disabled step">
+      Complete
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

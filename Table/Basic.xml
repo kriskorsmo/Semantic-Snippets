@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Basic</name>
+<help>A table can reduce its complexity to increase readability</help>
+<starttext><![CDATA[<table class="ui basic table">
+  <thead>
+    <tr><th>Name</th>
+    <th>Status</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>John</td>
+      <td>Approved</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Jamie</td>
+      <td>Approved</td>
+      <td>Requires call</td>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Denied</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

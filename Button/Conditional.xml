@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Conditional</name>
+<help></help>
+<starttext><![CDATA[<div class="ui buttons">
+  <div class="ui button">Cancel</div>
+  <div class="or"></div>
+  <div class="ui positive button">Save</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

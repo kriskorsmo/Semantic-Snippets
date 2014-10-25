@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Checkbox</name>
+<help>UI Checkboxes allow a user to select individual options in a form</help>
+<starttext><![CDATA[<div class="inline field">
+      <div class="ui checkbox">
+         <input type="checkbox" name="$${name}" id="$${id}" />
+         <label>$${label}</label>
+      </div>
+   </div>]]></starttext>
+<endtext><![CDATA[<script>
+   $('.ui.checkbox')
+      .checkbox()
+   ;
+</script>]]></endtext>
+</snippet>

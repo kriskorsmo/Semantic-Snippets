@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Section</name>
+<help>A divider can provide greater margins to divide sections of content</help>
+<starttext><![CDATA[<div class="ui section divider"></div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

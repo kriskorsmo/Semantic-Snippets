@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Block</name>
+<help>A header can be formatted to create a block</help>
+<starttext><![CDATA[<h4 class="ui black block header">
+  Block Header
+</h4>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

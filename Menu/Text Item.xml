@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Text Item</name>
+<help>A menu may have a simple text item</help>
+<starttext><![CDATA[<div class="ui vertical menu">
+  <div class="header item">
+    Promotions
+    <span class="ui teal label">New</span>
+  </div>
+  <div class="text item">
+    <a>Join now</a> and save $10 on a pro membership!
+  </div>
+  <div class="item">
+    <p><a>Join tomorrow</a> and save $5 on pro.</p>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

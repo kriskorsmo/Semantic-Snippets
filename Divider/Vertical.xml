@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Vertical</name>
+<help>A divider can segment content vertically</help>
+<starttext><![CDATA[<div class="ui two column middle aligned relaxed grid basic segment">
+  <div class="column">
+    <div class="ui form segment">
+      <div class="field">
+        <label>Username</label>
+        <div class="ui left labeled icon input">
+          <input type="text" placeholder="Username">
+          <i class="user icon"></i>
+          <div class="ui corner label">
+            <i class="asterisk icon"></i>
+          </div>
+        </div>
+      </div>
+      <div class="field">
+        <label>Password</label>
+        <div class="ui left labeled icon input">
+          <input type="password">
+          <i class="lock icon"></i>
+          <div class="ui corner label">
+            <i class="asterisk icon"></i>
+          </div>
+        </div>
+      </div>
+      <div class="ui blue submit button">Login</div>
+    </div>
+  </div>
+  <div class="ui vertical divider">
+    Or
+  </div>
+  <div class="center aligned column">
+    <div class="huge green ui labeled icon button">
+      <i class="signup icon"></i>
+      Sign Up
+    </div>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

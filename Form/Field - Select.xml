@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Field - Select</name>
+<help>Dropdown element</help>
+<starttext><![CDATA[   <div class="field">
+      <label>$${label}</label>
+      <div class="ui dropdown selection">
+         <input type="hidden" name="$${name}" id="$${id}" />
+         <div class="default text">...</div>
+         <i class="dropdown icon"></i>
+         <div class="menu">
+            <div class="item" data-value=""></div>
+            <div class="item" data-value=""></div>
+         </div>
+      </div>
+   </div>]]></starttext>
+<endtext><![CDATA[<script>
+   $('.ui.dropdown')
+      .dropdown()
+   ;
+</script>]]></endtext>
+</snippet>

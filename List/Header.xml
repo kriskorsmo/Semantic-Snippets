@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Header</name>
+<help>A list item can contain a header</help>
+<starttext><![CDATA[<div class="ui list">
+  <div class="item">
+    <div class="header">New York City</div>
+    A lovely city
+  </div>
+  <div class="item">
+    <div class="header">Chicago</div>
+    Also quite a lovely city
+  </div>
+  <div class="item">
+    <div class="header">Los Angeles</div>
+    Sometimes can be a lovely city
+  </div>
+  <div class="item">
+    <div class="header">San Francisco</div>
+    What a lovely city
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

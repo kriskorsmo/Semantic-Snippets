@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Inverted</name>
+<help>A popup can have its colors inverted</help>
+<starttext><![CDATA[<i class="circular heart icon link" data-content="Hello. This is an inverted popup" data-variation="inverted"></i>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

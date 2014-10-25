@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Detail</name>
+<help>A label can contain a detail</help>
+<starttext><![CDATA[<div class="ui label">
+   $${label}
+   <div class="detail">$${detail}</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

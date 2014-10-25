@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Modal</name>
+<help>A standard modal</help>
+<starttext><![CDATA[<div class="ui modal">
+  <i class="close icon"></i>
+  <div class="header">
+    Header
+  </div>
+  <div class="content">
+    <div class="left">
+      Some content to the left, usually an image or icon
+    </div>
+    <div class="right">
+      Some content to the right
+    </div>
+  </div>
+  <div class="actions">
+    <div class="ui button">
+      Cancel
+    </div>
+    <div class="ui button">
+      Okay
+    </div>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[<script>
+   $('.test.modal')
+      .modal('show')
+   ;
+</script>]]></endtext>
+</snippet>

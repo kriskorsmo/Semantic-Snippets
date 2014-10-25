@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Removable</name>
+<help>A label can contain a delete icon</help>
+<starttext><![CDATA[<div class="ui label">
+  Witty
+  <i class="delete icon"></i>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

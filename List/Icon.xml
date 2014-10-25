@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Icon</name>
+<help>A list item can have an icon</help>
+<starttext><![CDATA[<div class="ui list">
+   <a class="item">
+      <i class="right triangle icon"></i>
+      
+   </a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

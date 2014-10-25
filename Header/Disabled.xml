@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Disabled</name>
+<help></help>
+<starttext><![CDATA[<div class="ui disabled header">
+   Disabled Header
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

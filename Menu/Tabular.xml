@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Tabular</name>
+<help>A message can be formatted to show tabs of information</help>
+<starttext><![CDATA[<div class="ui tabular menu">
+  <a class="active item">
+    Bio
+  </a>
+  <a class="item">
+    Pics
+  </a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

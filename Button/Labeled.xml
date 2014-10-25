@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Labeled</name>
+<help></help>
+<starttext><![CDATA[<div class="ui labeled icon button">
+  <i class="pause icon"></i>
+  Pause
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

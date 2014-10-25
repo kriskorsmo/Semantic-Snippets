@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Text</name>
+<help>A menu can display simple text links</help>
+<starttext><![CDATA[<div class="ui text menu">
+  <div class="header item">Sort By</div>
+  <a class="active item">
+    <i class="home icon"></i> Closest
+  </a>
+  <a class="item">
+    <i class="mail icon"></i> Most Comments
+  </a>
+  <a class="item">
+    <i class="user icon"></i> Most Popular
+  </a>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Fade</name>
+<help>An element can disappear to reveal content below</help>
+<starttext><![CDATA[<div class="ui fade reveal">
+   <img class="visible content" src="/images/demo/invention.jpg">
+   <img class="hidden content" src="/images/demo/title.png">
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Active</name>
+<help>A progress bar can show activity</help>
+<starttext><![CDATA[<div class="ui active progress">
+  <div class="bar"></div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

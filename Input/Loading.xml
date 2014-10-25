@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Loading</name>
+<help>An icon input field can show that it is currently loading data</help>
+<starttext><![CDATA[<div class="ui icon input loading">
+   <input type="$${type:button|color|checkbox|date|email|file|hidden|image|number|password|radio|range|reset|search|submit|tel|text|time|url}" placeholder="$${placeholder}" />
+   <i class="icon"></i>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Disabled</name>
+<help>An image can show that it is disabled and cannot be selected</help>
+<starttext><![CDATA[<img class="$${size:tiny|mini|small|large|huge} disabled ui image" src="$${src}" />]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

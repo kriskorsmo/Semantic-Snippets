@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Action</name>
+<help></help>
+<starttext><![CDATA[<div class="ui action input">
+   <input type="text" placeholder="Search...">
+   <div class="ui button">Search</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

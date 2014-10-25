@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Floated</name>
+<help>A segment cant sit to the left or right of other content</help>
+<starttext><![CDATA[<div class="ui $${direction:left|right} floated segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

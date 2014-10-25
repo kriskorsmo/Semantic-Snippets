@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Inverted</name>
+<help>An icon can be formatted with different colors</help>
+<starttext><![CDATA[<i class="inverted black users icon"></i>
+<i class="inverted blue user icon"></i>
+<i class="inverted red users icon"></i>
+<i class="inverted green user icon"></i>
+<i class="inverted purple chat icon"></i>
+<i class="inverted teal comment icon"></i>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Fitted</name>
+<help>A divider can be fitted without any space above or below it</help>
+<starttext><![CDATA[<div class="ui fitted divider"></div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

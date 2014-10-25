@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Icon</name>
+<help>A header can be formatted to emphasize an icon</help>
+<starttext><![CDATA[<div class="ui icon header">
+  <i class="circular question icon"></i>Questions
+  <div class="sub header">Have any questions? Contact Us</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Move</name>
+<help>An element can move in a direction to reveal content</help>
+<starttext><![CDATA[<div class="ui $${direction:left|right|up|down} move reveal">
+  <img class="visible content" src="/images/demo/invention.jpg">
+  <img class="hidden content" src="/images/demo/title.png">
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

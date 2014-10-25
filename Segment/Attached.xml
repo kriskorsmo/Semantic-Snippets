@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Attached</name>
+<help>A segment can be attached to other content on a page</help>
+<starttext><![CDATA[<div class="ui $${direction:top|both|bottom} attached segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

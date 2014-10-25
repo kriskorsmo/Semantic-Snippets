@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Down</name>
+<help>A button can change when pressed using touch or mouse events</help>
+<starttext><![CDATA[<div class="ui down button">
+  <i class="user icon"></i>
+  Follow
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

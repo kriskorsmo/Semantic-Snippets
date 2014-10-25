@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Focus</name>
+<help>An input field can show a user is currently interacting with it</help>
+<starttext><![CDATA[<div class="ui input">
+   <input type="$${type:button|color|checkbox|date|email|file|hidden|image|number|password|radio|range|reset|search|submit|tel|text|time|url}" placeholder="$${placeholder}" />
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

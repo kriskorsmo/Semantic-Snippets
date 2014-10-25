@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Ordered</name>
+<help>A list can be ordered numerically</help>
+<starttext><![CDATA[<div class="ui ordered list">
+   <div class="item"></div>
+   <div class="list">
+      <div class="item"></div>
+   </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

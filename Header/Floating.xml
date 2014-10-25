@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Floating</name>
+<help>A header can sit to the left or right of other content</help>
+<starttext><![CDATA[<div class="ui segment">
+  <h3 class="ui right floated header">
+    Go Forward
+  </h3>
+  <h3 class="ui left floated header">
+    Go Back
+  </h3>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

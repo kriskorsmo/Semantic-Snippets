@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Active</name>
+<help>A button can show it is currently the active user selection</help>
+<starttext><![CDATA[<div class="ui active button">
+  <i class="user icon"></i>
+  Follow
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

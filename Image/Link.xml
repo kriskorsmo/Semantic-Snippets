@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Link</name>
+<help></help>
+<starttext><![CDATA[<a href="$${link}" class="ui $${size:tiny|mini|small|large|huge} image">
+   <img src="$${source}">
+</a>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Horizontal</name>
+<help>A horizontal segment divides content horizontally</help>
+<starttext><![CDATA[<div class="ui horizontal segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

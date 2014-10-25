@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Field - Text Area</name>
+<help>A textarea uses the default form element</help>
+<starttext><![CDATA[   <div class="field">
+      <label>User Text</label>
+      <textarea></textarea>
+   </div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

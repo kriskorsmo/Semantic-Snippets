@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Description</name>
+<help>A list item can contain a description</help>
+<starttext><![CDATA[<div class="ui divided list">
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      <a class="header">New York City</a>
+      <div class="description">A lovely city</div>
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      <a class="header">Chicago</a>
+      <div class="description">A lovely city</div>
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      <a class="header">Los Angeles</a>
+      <div class="description">A lovely city</div>
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      <a class="header">San Francisco</a>
+      <div class="description">A lovely city</div>
+    </div>
+  </div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

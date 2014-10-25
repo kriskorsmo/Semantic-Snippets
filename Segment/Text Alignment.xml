@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Text Alignment</name>
+<help>A segment cant have its text aligned to a side</help>
+<starttext><![CDATA[<div class="ui $${direction:left|center|right} aligned segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Error</name>
+<help>A cell or row may attention the user to an error or a negative value</help>
+<starttext><![CDATA[<table class="ui table segment">
+  <thead>
+    <tr><th>Name</th>
+    <th>Status</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>No Name Specified</td>
+      <td>Approved</td>
+      <td>None</td>
+    </tr>
+    <tr class="error">
+      <td>Jimmy</td>
+      <td>Cannot pull data</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Jamie</td>
+      <td>Approved</td>
+      <td class="error"><i class="attention icon"></i> Classified</td>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Approved</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

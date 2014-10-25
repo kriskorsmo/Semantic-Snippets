@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Piled</name>
+<help>A segment can be formatted to look like a pile of pages</help>
+<starttext><![CDATA[<div class="ui piled segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

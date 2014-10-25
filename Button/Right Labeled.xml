@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Right Labeled</name>
+<help></help>
+<starttext><![CDATA[<div class="ui right labeled icon button">
+  <i class="right arrow icon"></i>
+  Next
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

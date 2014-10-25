@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Failed</name>
+<help>A progress bar can show failure</help>
+<starttext><![CDATA[<div class="ui failed progress">
+  <div class="bar" style="width:100%"></div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

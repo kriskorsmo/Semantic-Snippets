@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Clearing</name>
+<help>A divider can clear the contents above it</help>
+<starttext><![CDATA[<div class="ui clearing divider"></div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

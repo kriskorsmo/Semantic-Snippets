@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Ribbon</name>
+<help>A label can appear as a ribbon attaching itself to an element</help>
+<starttext><![CDATA[<div class="ui ribbon label">
+   Dogs
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Instant</name>
+<help>An element can show its content without delay</help>
+<starttext><![CDATA[<div class="ui instant masked move reveal">
+   <img class="visible content" src="/images/demo/invention.jpg">
+   <img class="hidden content" src="/images/demo/title.png">
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

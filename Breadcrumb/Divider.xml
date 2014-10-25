@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Divider</name>
+<help>A breadcrumb can contain a divider to show the relationship between sections this can be formatted as an icon or text</help>
+<starttext><![CDATA[<div class="ui breadcrumb">
+  <a class="section">Food</a>
+  <i class="right arrow icon divider"></i>
+  <a class="section">Fruit</a>
+  <i class="right arrow icon divider"></i>
+  <div class="active section">Apples</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

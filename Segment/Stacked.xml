@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Stacked</name>
+<help>A segment can be formatted to show it contains multiple pages</help>
+<starttext><![CDATA[<div class="ui stacked segment">
+   
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

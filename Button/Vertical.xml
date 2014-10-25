@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Vertical</name>
+<help>Groups can be formatted to appear vertically</help>
+<starttext><![CDATA[<div class="ui vertical buttons">
+  <div class="ui button">Top</div>
+  <div class="ui button">Middle</div>
+  <div class="ui button">Bottom</div>
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

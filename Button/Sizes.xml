@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Sizes</name>
+<help></help>
+<starttext><![CDATA[<div class="mini ui button">
+  Mini
+</div>
+<div class="tiny ui button">
+  Tiny
+</div>
+<div class="small ui button">
+  Small
+</div>
+<div class="medium ui button">
+  Medium
+</div>
+<div class="large ui button">
+  Large
+</div>
+<div class="big ui button">
+  Big
+</div>
+<div class="huge ui button">
+  Huge
+</div>
+<div class="massive ui button">
+  Massive
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>

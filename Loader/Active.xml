@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Active</name>
+<help>A loader can be active or visible</help>
+<starttext><![CDATA[<div class="ui segment">
+  <div class="ui active loader"></div>
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+</div>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
